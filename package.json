@@ -1,0 +1,17 @@
+{
+  "name": "web-reactive-components",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "reactivity": "git+https://github.com/jardaroh/reactivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
